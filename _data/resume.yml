@@ -4,9 +4,8 @@ demo: false
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/1391830_10151672137550036_423222680_n.jpg?oh=c58cafb9ccd33bcf512515898d3614d2&oe=56F72575"
-name: "Olu Niyi-Awosusi"
-copy: "A Front-End/Javascript Developer based in London. Currently available for hire"
+photo: "https://scontent-lhr3-1.xx.fbcdn.net/t31.0-8/s960x960/11146474_10153475818405036_3473996553549784475_o.jpg"
+copy: "A software developer based in London. Currently available for hire"
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
